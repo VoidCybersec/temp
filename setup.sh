@@ -4,7 +4,6 @@ apt-get update
 apt install git
 apt install python3.10-venv
 apt install python3-pip
-apt ins
 git clone https://github.com/BlehPoppy/TP051894-FYP
 cd TP051894-FYP
 python3 -m venv ~/virtualenv/home_nmap/
